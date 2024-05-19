@@ -1,0 +1,220 @@
+*{
+    direction: rtl;
+margin: 0;
+}
+       
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #4e3797;
+    padding: 30px 40px;
+    justify-content:start;
+    background-image: url('aboutImage2.png');
+    width: 100%;
+    height: 35rem;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    border: none;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
+
+.navbar a:hover {
+    color: rgb(70, 171, 218);
+}
+
+.imagelogo {
+    height: 40px;
+    width: 200px;
+}
+
+.aboutcontiner{
+    width: 90%;
+    height: 55vh;
+    display: flex;
+    align-content:flex-end;
+    flex-flow: column wrap;
+    margin-right: 3%; 
+margin-top: 3%;
+
+}
+.con1{
+    width: 100%;
+    height: 20vh;
+    
+
+}   
+
+.con2{
+    width: 100%;
+    height: 30vh;
+
+}   
+
+.title{
+    color:#4c3494;
+    font-size: 4.5rem;
+    line-height: 2.3rem;
+}
+
+.title2{
+    color:#4c3494;
+  line-height: 2rem;
+  margin: 5%;
+
+}
+
+.title3{
+    color:#4c3494;
+    line-height: 2rem;
+    margin: 4%;  
+}
+.title2-continer{
+    height: 3rem;
+    padding-top: 1rem;
+    margin-bottom: 10px;
+}
+.pargraph{
+    font-size: 1.9rem;
+    line-height: 2.3rem; 
+}
+.users-icon{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.icon{
+width: 5rem;
+max-height: 5rem;
+}
+
+.icon2{
+    width: 3rem;
+    max-height: 3rem;
+    }
+.head-text{
+    color:#6b21a8;
+    font-size:2.3rem;
+    line-height: 4rem;
+    font-weight: bold ;
+    margin-bottom: 0%;
+}
+.head-pragraph{
+    font-size: 1rem;
+  line-height: 1.5rem;
+}
+.con-icon{
+    width: 30%;
+    height: 90%;
+    display: flex;    
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.program-continer{
+    width: 100%;
+    height: 110vh;
+    text-align: center;
+    background-color: #f6f7f9;
+}
+
+.program-icon{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: space-around; 
+
+}
+
+
+.competitions-continer{
+    width: 100%;
+    height: 60vh;
+    text-align: center;
+    background-color: #ffffff; 
+
+}
+
+.map-continer{
+    width: 100%;
+    height: 90vh;
+    display: flex; 
+    text-align: right;
+}
+
+.map{
+    width: 50%;
+    height: 85vh;
+}
+
+.img-map{
+    width: 30rem;
+    height: 30rem;
+}
+.map-text{
+    width: 50%;
+    height: 85vh;
+    align-content: center;
+    margin-right: 5rem;
+}
+
+.head-title2{
+margin-top:3rem;
+font-size: larger;
+}
+
+.head-title3{
+    margin-top:2rem;
+    inline-size: 24rem;
+    }
+
+
+
+    .footer {
+        background-color: #4e3797;
+        color: #fff;
+        padding: 6rem 50px;
+        display: flex;
+    }
+    
+    .foot {
+        display: flex;
+        justify-content:space-around;
+        padding: 1rem 5px;
+        gap:4rem;
+        width: 100%;
+        text-align: center;
+    }
+    
+    .copy {
+        text-align: center;
+        background-color: #4e3797;
+        color: #fff;
+        font-size: 1rem;
+        padding-bottom: 2rem;
+    }
+    
+    .logo {
+        height: 40px;
+        width: 200px;
+    }
+    
+    .foot-text{
+        font-size:medium;
+    }
+    
+    .foot-text2{
+        font-size:medium;
+    margin-top: 10%;
+    }
+    
+    
